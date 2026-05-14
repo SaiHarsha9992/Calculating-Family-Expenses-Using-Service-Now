@@ -38,3 +38,5 @@ Project_Demo_Explanation/
 Contains the primary walkthrough video (Project_Demo_Explanation (2).mp4) and its associated descriptive text.
 Video Demo/
 A collection of demonstration videos from individual team members showcasing specific features and functionalities of the Family Expenditure system.
+
+--Kedarinadh Sai Harsha
